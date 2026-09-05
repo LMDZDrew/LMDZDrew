@@ -10,7 +10,7 @@ Currently Learning
 - Computer Science Fundamentals
 - Software Development
 - Cybersecurity
- Goals
+Goals
 - Earn a bachelor's degree in Computer Science
 - Build a strong software development portfolio
 - Develop proficiency in Python and additional programming languages
@@ -18,7 +18,7 @@ Currently Learning
 - Explore full-stack software development
 - Develop skills in cybersecurity and artificial intelligence
 - Transition into a career in software engineering or technology
- Interests
+Interests
 - Software Development
 - Computer Hardware & PC Building
 - Cybersecurity
