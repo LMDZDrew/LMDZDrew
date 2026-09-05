@@ -1,16 +1,15 @@
-## Hi there 
+## Hi, I'm Andrew!
 
 I'm an active-duty U.S. Marine building a foundation in computer science and software development.
 
 I'm currently learning Python, Git, GitHub, and core programming concepts while developing projects to strengthen my technical skills and prepare for a future career in technology.
 
- Currently Learning
+Currently Learning
 - Python
 - Git & GitHub
 - Computer Science Fundamentals
 - Software Development
 - Cybersecurity
-
  Goals
 - Earn a bachelor's degree in Computer Science
 - Build a strong software development portfolio
