@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**LMDZDrew/LMDZDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--I'm an active-duty U.S. Marine building a foundation in computer science and software development.
 
-Here are some ideas to get you started:
+I'm currently learning Python, Git, GitHub, and core programming concepts while developing projects to strengthen my technical skills and prepare for a future career in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning
+Python
+Git & GitHub
+Computer Science Fundamentals
+Software Development
+Cybersecurity
+
+ Goals
+Earn a bachelor's degree in Computer Science
+Build a strong software development portfolio
+Develop proficiency in Python and additional programming languages
+Learn data structures and algorithms
+Explore full-stack software development
+Develop skills in cybersecurity and artificial intelligence
+Transition into a career in software engineering or technology
+ Interests
+Software Development
+Computer Hardware & PC Building
+Cybersecurity
+Artificial Intelligence
+Gaming
+
+This profile documents my progress as I learn computer science and build increasingly complex software projects.
